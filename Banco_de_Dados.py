@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS Produtos (
     data_entrada TEXT,
     quantidade_minima REAL,
     Custo_Total REAL,
-    TOTAL_CMV REAL
+    TOTAL REAL
 );
 """)
 
@@ -25,4 +25,5 @@ CREATE TABLE IF NOT EXISTS Produtos (
 
 
 conn.commit()
+
 conn.close()
