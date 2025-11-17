@@ -1,7 +1,7 @@
 # 💧 Projeto Big Data – Restaurante Vista Serrana  
 
 📘 **Disciplina:** Tópicos de Big Data em Python  
-🏫 **Instituição:** Instituto Vianna Júnior  
+🏫 **Instituição:** Instituto Estácio 
 
 ---
 
